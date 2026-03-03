@@ -22,7 +22,7 @@ const Projects = () => {
                     muted
                     autoPlay
                 >
-                    <source src="https://drive.google.com/uc?export=download&id=1mDpyvh5IQ7YQyACXjIOm7_NAjzXHM3u1" type="video/mp4" />
+                    <source src="/projects.mp4" type="video/mp4" />
                 </video>
             </div>
 
